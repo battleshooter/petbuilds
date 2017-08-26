@@ -154,7 +154,6 @@ e050583b7444e1d31f6f48c0d39a7108  sylpheed-3.4.3.tar.gz
 6dfd643057b9cd016c07df4de5677209  sylpheed-3.5.0.tar.gz
 665f6568cdd4987f916a32307cd64fa2  sysvinit-2.86.tar.gz
 2aff84c29a3c4b51ac5682a89d96bda5  transmission-2.60.tar.xz
-07167658fb48e2901dc3a3a025971b6d  truncate-0.1.tar.gz
 f323fe700edd6ea404c40934ddf32b22  usb-modeswitch-2.2.0.tar.bz2
 ea050e3b44a2b7aa805619042f5448df  usb-modeswitch-2.2.6.tar.bz2
 dff94177781298aaf0b3c2a3c3dea6b2  usb-modeswitch-data-20140529.tar.bz2
